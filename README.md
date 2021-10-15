@@ -3,12 +3,12 @@ Certain older OS X and iOS releases haven't been updated with the latest root ce
 
 We've put together this handy configuration profile that contains the necessary certificates and can easily be installed on those machines.
 
-[Get the Missing Root Certficates](https://github.com/equinux/get-missing-root-certificates/blob/main/missing-root-certificates.mobileconfig)
+[Get the Missing Root Certficates](https://github.com/equinux/get-missing-root-certificates/raw/main/missing-root-certificates-signed.mobileconfig)
 
 
 
 ## How-to
-1. Download the [Missing Root Certificates configuration profile](https://github.com/equinux/get-missing-root-certificates/blob/main/missing-root-certificates.mobileconfig)
+1. Download the [Missing Root Certificates configuration profile](https://github.com/equinux/get-missing-root-certificates/raw/main/missing-root-certificates-signed.mobileconfig)
 2. Double-click to open it
 3. Confim in System Preferences (on a Mac) or Settings (on iOS) that you wish to install the configuration profile
 
